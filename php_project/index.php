@@ -1,1 +1,1 @@
-<?php echo 'Привіт! Проєкт працює на XAMPP.'; ?>
+<?php echo '<?php echo 'La-Li-Lu-Le-Lo!!!!'; ?>.'; ?>
